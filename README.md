@@ -101,8 +101,8 @@ npm run build
 
 如有问题或建议，欢迎：
 
-- 提交 [Issue](https://github.com/qcaid/markdown-learning-site/issues)
-- 发起 [Pull Request](https://github.com/qcaid/markdown-learning-site/pulls)
+- 提交 [Issue](https://github.com/Qcaid/Learn_MarkDown/issues)
+- 发起 [Pull Request](https://github.com/Qcaid/Learn_MarkDown/pulls)
 
 ## 致谢
 

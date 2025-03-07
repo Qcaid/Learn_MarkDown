@@ -11,10 +11,6 @@
 - 📱 响应式设计 - 完美支持桌面和移动设备
 - 🎯 快捷工具栏 - 一键插入常用Markdown语法
 
-## 在线演示
-
-访问 [在线演示](https://your-demo-url.com) 体验项目功能。
-
 ## 技术栈
 
 - React 19 - 用户界面构建
@@ -29,7 +25,7 @@
 1. 克隆项目
 
 ```bash
-git clone https://github.com/your-username/markdown-learning-site.git
+git clone https://github.com/qcaid/markdown-learning-site.git
 cd markdown-learning-site
 ```
 
@@ -105,8 +101,8 @@ npm run build
 
 如有问题或建议，欢迎：
 
-- 提交 [Issue](https://github.com/your-username/markdown-learning-site/issues)
-- 发起 [Pull Request](https://github.com/your-username/markdown-learning-site/pulls)
+- 提交 [Issue](https://github.com/qcaid/markdown-learning-site/issues)
+- 发起 [Pull Request](https://github.com/qcaid/markdown-learning-site/pulls)
 
 ## 致谢
 

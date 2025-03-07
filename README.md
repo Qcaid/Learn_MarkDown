@@ -10,7 +10,10 @@
 - 💾 自动保存 - 自动保存编辑内容和主题偏好
 - 📱 响应式设计 - 完美支持桌面和移动设备
 - 🎯 快捷工具栏 - 一键插入常用Markdown语法
-
+  
+## 项目预览图
+![dark](https://github.com/Qcaid/Learn_MarkDown/blob/ff5aebf6082a000c7888210c75583d30499db869/src/assets/dark.png)
+![light](https://github.com/Qcaid/Learn_MarkDown/blob/ff5aebf6082a000c7888210c75583d30499db869/src/assets/light.png)
 ## 技术栈
 
 - React 19 - 用户界面构建

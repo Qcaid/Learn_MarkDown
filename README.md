@@ -81,7 +81,7 @@ npm run build
 
 ## 贡献指南
 
-我们欢迎所有形式的贡献，无论是新功能、bug修复还是文档改进！
+欢迎所有形式的贡献，无论是新功能、bug修复还是文档改进！
 
 1. Fork 本仓库
 2. 创建特性分支：`git checkout -b feature/your-feature`
